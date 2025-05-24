@@ -307,7 +307,7 @@ const translations = {
         "confirmPasswordPlaceholder": "पासवर्ड की पुष्टि करें",
         "registerButtonText": "पंजीकरण",
         "alreadyAccountPrompt": "पहले से ही एक खाता है? लॉगिन करें",
-        "htmlTitle": "जेमिनी 2.5 प्रो हिन्दी | एआई मॉडल तक त्वरित पहुँच और डाउनलोड",
+        "htmlTitle": "जेमिनी 2.5 प्रो हिंदी संस्करण | हाई-स्पीड होम एक्सेस और AI मॉडल लोडिंग",
 
         // Profile Page Specific (already added in previous steps, ensure they are here)
         "profilePageTitle": "उपयोगकर्ता जानकारी - जेमिनी 2.5 प्रो",
